@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Benard Kosgei</h1>
 <h3 align="center">A passionate Full Stack Developer from Kenya</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-it-education-student-writing-software-coding-application-java-script-it-project-digital-technology-development-website-interface-vector-illustration_613284-1712.jpg?w=740&t=st=1694171735~exp=1694172335~hmac=cf1b8038f0c6d7bec9c09bb8b8860cf2574c89e7a06db7d9da106a7b1ba8b250">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhuejQ1NGt2eWg2ZjBob2kyZGlmaWxmZm12bXVuZHdvamYzNG41cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benardkosgei&label=Profile%20views&color=0e75b6&style=flat" alt="benardkosgei" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benardkosgei" alt="benardkosgei" /></a> </p>
