@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **benardkosgei96@gmail.com**
 
-- 📄 Know about my experiences [http://benaa.pythonanywhere.com/#resume](http://benaa.pythonanywhere.com/#resume)
+- 📄 Know about my experiences https://brotherbenard.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
