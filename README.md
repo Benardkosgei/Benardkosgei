@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **New portfolio**
 
-- 👨‍💻 All of my projects are available at [https://benaa.pythonanywhere.com/](https://benaa.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at https://brotherbenard.com/
 
 - 💬 Ask me about **react, django,laravel,gsap,kotlin,android,bootstrap,javascript,HTML5,nodejs,jquery,tailwindcss,sass,firebase,nextjs,aws,css**
 
-- 📫 How to reach me **benardkosgei96@gmail.com**
+- 📫 How to reach me **primecyberiten@gmail.com**
 
 - 📄 Know about my experiences https://brotherbenard.com/
 
