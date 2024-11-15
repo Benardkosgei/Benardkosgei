@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://brotherbenard.com/
 
-- 💬 Ask me about **react, django,laravel,gsap,kotlin,android,bootstrap,javascript,HTML5,nodejs,jquery,tailwindcss,sass,firebase,nextjs,aws,css**
+- 💬 Ask me about **react, WordPress, django,laravel,gsap,kotlin,android,bootstrap,javascript,HTML5,nodejs,jquery,tailwindcss,sass,firebase,nextjs,aws,css**
 
 - 📫 How to reach me **primecyberiten@gmail.com**
 
